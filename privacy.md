@@ -9,3 +9,4 @@ Backups are stored in the owner's Google Drive. OAuth credentials are stored on 
 The owner can delete the backups from Google Drive and revoke the app's access in Google Account settings.
 
 [Back to the home page](index.html)
+
